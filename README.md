@@ -1,12 +1,21 @@
-- 👋 Hi, Aminul Hasan Alvir.
-- I'm a passionate and results-driven front-end developer with expertise in HTML, CSS, JavaScript, and React.
-- I have had the privilege of working on diverse projects that allowed me to hone my skills in creating responsive and user-friendly web applications.
-- 👀 I’m interested in Coding, Solving problems, Gaming.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front End Sites
-- 📫 You can reach me through my linkedin for any kind of qustions or just for saying Hi. (www.linkedin.com/in/1alvir)
+## Aminul Hasan Alvir
 
-<!---
-Codescorpio14/Codescorpio14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer with a strong focus on crafting **responsive and user-friendly web applications**. I possess expertise in **HTML, CSS, JavaScript (including React and Next.js), Tailwind CSS, Sass, Node.js, and MongoDB**.
+
+My experience stems from diverse projects that have honed my skills in:
+
+* **Building seamless connections between front-end and back-end development.**
+* **Creating intuitive and engaging user interfaces.**
+* **Developing maintainable and efficient code.**
+
+I'm driven by a **curiosity for continuous learning** and a passion for:
+
+* **Coding and problem-solving.**
+* **Exploring innovative approaches to web development.**
+* **Expanding my knowledge of the programming world.**
+
+**Currently seeking a collaborative and growth-oriented environment** where I can contribute my skills and continuously learn from experienced developers.
+
+**Open to collaborating on a variety of web projects** that leverage my skills and allow me to further enhance my expertise.
+
+**Connect with me on LinkedIn:** https://www.linkedin.com/in/1alvir 
