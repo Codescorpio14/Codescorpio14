@@ -19,3 +19,4 @@ I'm driven by a **curiosity for continuous learning** and a passion for:
 **Open to collaborating on a variety of web projects** that leverage my skills and allow me to further enhance my expertise.
 
 **Connect with me on LinkedIn:** https://www.linkedin.com/in/1alvir 
+**Discord:** Scorpioalvi
